@@ -17,7 +17,7 @@ Bussinäyttö koostuu e-paperinäytöstä, Wemos D1 Mini -mikrokontrollerista, l
 
 ## 3D-mallit
 
-Kotelon 3D-malleja voit tarkastella (ja muokata ottamalla itsellesi kopion) [OnShapessa].(https://cad.onshape.com/documents/f1fb8a455b82d920070b3ebc/w/c682447b5a39c870d298b90b/e/590ca089253f38d85d7e398c)
+Kotelon 3D-malleja voit tarkastella (ja muokata ottamalla itsellesi kopion) [OnShapessa](https://cad.onshape.com/documents/f1fb8a455b82d920070b3ebc/w/c682447b5a39c870d298b90b/e/590ca089253f38d85d7e398c).
 
 
 ## Asennus ja käyttöönotto
